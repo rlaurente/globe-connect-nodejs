@@ -15,7 +15,7 @@
   "author": "clark galgo <cgalgo@openovate.com>",
   "license": "ISC",
   "dependencies": {
-	"node-libcurl": "1.0.0"
+	"node-libcurl": "^1.3.3"
   },
   "homepage": "https://github.com/globelabs/globe-connect-nodejs",
   "bugs" : {
